@@ -1,0 +1,51 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+manhattan_inspections %>% 
+  group_by(latitude, longitude, score) %>% 
+  plot_ly(x = ~latitude, y = ~longitude, type = 'scatter', 
+  mode = 'markers', color = ~score)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+manhattan_inspections %>% 
+  filter(cuisine_description %in% c("Italian", "Asian", "Mexican", "Pizza", "American" )) %>% 
+  mutate(cuisine_description = fct_reorder(cuisine_description, score)) %>% 
+  plot_ly(y = ~score, color = ~cuisine_description, type = "box",
+          colors = "Set2")
+```
+
+### Chart C
+
+```{r}
+nyc_inspections %>%
+  count(boro) %>% 
+  filter(boro != 0) %>% 
+  mutate(boro = fct_reorder(boro, n)) %>% 
+  plot_ly(x = ~boro, y = ~n, color = ~boro, type = "bar")nyc_inspections %>%
+  count(boro) %>% 
+  filter(boro != 0) %>% 
+  mutate(boro = fct_reorder(boro, n)) %>% 
+  plot_ly(x = ~boro, y = ~n, color = ~boro, type = "bar")
+```
+
