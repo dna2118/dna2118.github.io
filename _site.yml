@@ -11,7 +11,6 @@ navbar:
       href: http://github.com/dna2118/
     - icon: fa-linkedin-square
       href: https://www.linkedin.com/in/dionnaattinson/
-
 output:
   html_document:
-    theme: journal
+    theme: cerulean
