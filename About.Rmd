@@ -1,0 +1,81 @@
+---
+title: <center>Resume</center>
+output: html_document
+---
+<h1>Education</h1>
+<b>Columbia University, Mailman School of Public Health </b><br>
+<i> Masters of Public Health, Sociomedical Sciences/Public Health Research Methods, Expected Graduation, 2020 </i>
+
+<b>Rutgers University, E.J Bloustein School of Planning & Public Policy</b><br>
+<i>Cum Laude, Baccalaureate of Science in Public Health, 2015 (3.6 GPA)</i><br>
+<ul>
+<li>Tau Sigma National Honor Society, Rutgers Chapter, April 2013</li>
+<li>National Society of Collegiate Scholars, Inductee, April 2012</li></ul>
+
+<h1>Work Experience</h1>
+
+<b>NYC Department of Health and Human Hygiene </b>   
+<p style="text-align:left;">
+<i>Health Research Training Intern</i>
+<span style="float:right;"> August 2019 – Current</span>
+<ul>
+<li>Assist in the survey design for the initial assessment forms for the Asthma Counselor Program that addresses uncontrolled childhood asthma for residents of East Harlem at the Asthma Center of Excellence</li>
+<li>Conduct data entry and data analysis to assess goals met by participants of the Asthma Counselor and Community Health Worker program</li></ul>
+
+<b>PCORI</b>  
+<p style="text-align:left;"><i>Program Assistant</i>
+<span style="float:right;">April 2016 – July 2018</span></p>
+<ul>
+<li>Led the programmatic review process of research applications, resulting in the funding of eight comparative effectiveness research studies for $41 million that aimed to reduce health and healthcare disparities</li>
+<li>Assisted in the identification and development of patient-centered topics that addressed evidence gaps by conducting literature reviews, synthesizing findings, and developing reports and briefs that have been used by PCORI leadership to determine funding priorities</li>
+<li>Supported and managed portfolio analysis activities for clusters of PCORI-funded trials focused on telehealth (68 studies for $216 million), community health workers (66 studies for $210.5 million), and asthma (17 studies for $50 million) that informed national stakeholders of the impact of PCORI’s research investment</li>
+<li>Supported the development and implementation of activities in the Asthma Evidence to Action Network that established communication, engagement, and cross learning among 17 asthma awardees and resulted in joint published manuscripts and collaborative applications for future funding</li></ul>
+
+<b>Southern New Jersey Perinatal Cooperative</b>
+<p style="text-align:left;"> <i>Community Health Worker</i>            <span style="float:right;">Jan. 2015 – April 2016</span></p>
+<ul>
+<li>Supported the relaunch of the Health Resources & Services Administration-funded CHS program to address disparities in maternal and infant health which resulted in a coordinated system to connect families to community resources that served 1,071 women and children, distributed 6,000 diapers to client families, and exceeded performance measures in five areas in 2016</li>
+<li>Conducted community needs assessments, coordinated public awareness campaigns, and co-facilitated focus groups to identify strategies to implement for highest program efficiency and reach</li>
+<li>Organized and managed community health initiatives to support expecting mothers and families, which led to the development and implementation of CHS’s first traveling health fair and community baby shower which are now held annually to provide expecting families with baby necessities and birthing education</li></ul>
+
+<h1>Research Experience</h1>
+
+<b>Yale School of Public Health</b>    
+<p style="text-align:left;"><i>Graduate Research Assistant, STRETCH Lab</i><span style="float:right;">June 2019 – September 2019</span></p>
+PI: Yusuf Ransome
+<ul>
+<li>Conducted two systematic literature reviews using Covidence to understand 1) the role of technology to address chronic disease in faith-based settings and 2) the role of religion/spirituality on aging and cognitive decline</li></ul>
+<br>
+<b>Columbia University, Mailman School of Public Health</b>    
+<p style="text-align:left;"><i>Graduate Project Coordinator, HaRBoR Study</i><span style="float:right;"> January 2019 – May 2019</span></p>
+PI: Diana Hernandez<br>
+<ul>
+<li>Coordinated the evaluation of an original intervention designed to increase smoke-free housing policy compliance in established smoke-free affordable housing developments in the South Bronx using a mixed methods, pre-post with comparison group study design</li>
+<li>Conducted surveys with residents and installed air quality devices that measured heat, humidity, CO2, ventilation and volatile organic compound exposure</li>
+<li>Supervised 10 graduate student research assistants conducting field work</li></ul>
+
+<h1>Teaching Experience</h1>
+
+<b>Columbia University</b>	
+<p style="text-align:left;"><i>Teaching Assistant, Environmental Health and Justice</i><span style="float:right;">Sept. 2019 – Dec. 2019</span></p>
+<ul>
+<li>Assists with the development of lectures and quizzes related to environmental justice theory, vulnerable populations, community-based participatory research, and social movements in environmental health and policy</li>
+<li>Serves as the point TA to 12 undergraduate students to develop proposals to address an environmental health issue in NYC through oral and poster presentation</li></ul>
+<h1>Leadership Experience</h1>
+<b>Bloom Girls Mentoring</b> 	        
+<p style="text-align:left;"><i>President</i><span style="float:right;">Sept. 2019 – Current</span></p>
+<ul><li>Oversees program that provides mentorship to girls and young teens in the Washington Heights community of northern Manhattan via weekly day group sessions</li></ul>
+
+<h1>Skills/Certifications</h1>
+
+<ul>
+<li>MS Word, Excel, Access, PowerPoint, Photoshop, SharePoint, Salesforce: Foundation Connect, EndNote, Mendeley, Covidence</li>
+<li>Statistical Packages:<br>
+Quantitative:  SPSS, R, QGIS, SAS <br>
+Qualitative: Atlas.ti, NVivo, Dedoose</li>
+<li>CITI Training (IRB), 2019</li>
+<li>HIPAA Training, 2018</li>
+<li>Protection of Minors Training, 2018</li>
+<li>Human Subjects Certification, 2018</li>
+<li>New Jersey Immunization Information System Training, 2015</li></ul>
+
