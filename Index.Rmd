@@ -1,10 +1,10 @@
 ---
-title: <center>Index</center>
+title: <center>Dionna N. Attinson</center>
 output: html_document
 ---
 <center>Welcome to the website of Dionna N. Attinson, Masters of Public Health candidate at the Columbia Mailman School of Public Health. 
 
 
-<img src="Dionna.jpeg" style="width:75%">
+<img src="Attinson 2.jpg" style="width:50%">
 
 To learn more about me, please explore my [Resume](about.html) and [Research](presentations.html) pages. </center> 

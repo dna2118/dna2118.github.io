@@ -2,7 +2,7 @@
 title: <center>Resume</center>
 output: html_document
 ---
-<h1>Education</h1>
+<h2>Education</h2>
 <b>Columbia University, Mailman School of Public Health </b><br>
 <i> Masters of Public Health, Sociomedical Sciences/Public Health Research Methods, Expected Graduation, 2020 </i>
 
@@ -12,7 +12,7 @@ output: html_document
 <li>Tau Sigma National Honor Society, Rutgers Chapter, April 2013</li>
 <li>National Society of Collegiate Scholars, Inductee, April 2012</li></ul>
 
-<h1>Work Experience</h1>
+<h2>Work Experience</h2>
 
 <b>NYC Department of Health and Human Hygiene </b>   
 <p style="text-align:left;">
@@ -38,7 +38,7 @@ output: html_document
 <li>Conducted community needs assessments, coordinated public awareness campaigns, and co-facilitated focus groups to identify strategies to implement for highest program efficiency and reach</li>
 <li>Organized and managed community health initiatives to support expecting mothers and families, which led to the development and implementation of CHS’s first traveling health fair and community baby shower which are now held annually to provide expecting families with baby necessities and birthing education</li></ul>
 
-<h1>Research Experience</h1>
+<h2>Research Experience</h2>
 
 <b>Yale School of Public Health</b>    
 <p style="text-align:left;"><i>Graduate Research Assistant, STRETCH Lab</i><span style="float:right;">June 2019 – September 2019</span></p>
@@ -54,7 +54,7 @@ PI: Diana Hernandez<br>
 <li>Conducted surveys with residents and installed air quality devices that measured heat, humidity, CO2, ventilation and volatile organic compound exposure</li>
 <li>Supervised 10 graduate student research assistants conducting field work</li></ul>
 
-<h1>Teaching Experience</h1>
+<h2>Teaching Experience</h2>
 
 <b>Columbia University</b>	
 <p style="text-align:left;"><i>Teaching Assistant, Environmental Health and Justice</i><span style="float:right;">Sept. 2019 – Dec. 2019</span></p>
@@ -66,7 +66,7 @@ PI: Diana Hernandez<br>
 <p style="text-align:left;"><i>President</i><span style="float:right;">Sept. 2019 – Current</span></p>
 <ul><li>Oversees program that provides mentorship to girls and young teens in the Washington Heights community of northern Manhattan via weekly day group sessions</li></ul>
 
-<h1>Skills/Certifications</h1>
+<h2>Skills/Certifications</h2>
 
 <ul>
 <li>MS Word, Excel, Access, PowerPoint, Photoshop, SharePoint, Salesforce: Foundation Connect, EndNote, Mendeley, Covidence</li>
