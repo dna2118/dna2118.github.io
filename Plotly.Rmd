@@ -1,11 +1,9 @@
 ---
 title: "Plotly"
-author: "Dionna Attinson"
-date: "11/1/2019"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=TRUE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
@@ -13,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(httr)
 library(jsonlite)
+library(plotly)
+library(viridis)
 
 get_all_inspections = function(url) {
   
@@ -49,3 +49,42 @@ url = "https://data.cityofnewyork.us/resource/43nn-pn8j.json"
 nyc_inspections = get_all_inspections(url) %>%
   bind_rows() 
 ```
+
+
+```{r}
+set.seed(1)
+manhattan_inspections =
+  nyc_inspections %>% 
+  mutate(
+    score = as.numeric(score)) %>% 
+  select(
+    boro, cuisine_description, score, latitude, longitude) %>%
+  filter(
+    !is.na(score), 
+    boro == "Manhattan") %>% 
+    sample_n(5000)
+```
+
+```{r}
+manhattan_inspections %>% 
+  group_by(latitude, longitude, score) %>% 
+  plot_ly(x = ~latitude, y = ~longitude, type = 'scatter', 
+  mode = 'markers', color = ~score)
+```
+
+```{r}
+manhattan_inspections %>% 
+  filter(cuisine_description %in% c("Italian", "Asian", "Mexican", "Pizza", "American" )) %>% 
+  mutate(cuisine_description = fct_reorder(cuisine_description, score)) %>% 
+  plot_ly(y = ~score, color = ~cuisine_description, type = "box",
+          colors = "Set2")
+```
+
+```{r}
+nyc_inspections %>%
+  count(boro) %>% 
+  filter(boro != 0) %>% 
+  mutate(boro = fct_reorder(boro, n)) %>% 
+  plot_ly(x = ~boro, y = ~n, color = ~boro, type = "bar")
+```
+
