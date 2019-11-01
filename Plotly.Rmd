@@ -50,7 +50,6 @@ nyc_inspections = get_all_inspections(url) %>%
   bind_rows() 
 ```
 
-
 ```{r}
 set.seed(1)
 manhattan_inspections =
