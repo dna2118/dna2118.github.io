@@ -10,7 +10,7 @@ html_document:
 <i> Masters of Public Health, Sociomedical Sciences/Public Health Research Methods, Expected Graduation, 2020 </i>
 
 <b>Rutgers University, E.J Bloustein School of Planning & Public Policy</b><br>
-<i>Cum Laude, Baccalaureate of Science in Public Health, 2015 (3.6 GPA)</i><br>
+<i>Cum Laude, Baccalaureate of Science in Public Health, 2015</i><br>
 <ul>
 <li>Tau Sigma National Honor Society, Rutgers Chapter, April 2013</li>
 <li>National Society of Collegiate Scholars, Inductee, April 2012</li></ul>
@@ -20,10 +20,11 @@ html_document:
 <b>NYC Department of Health and Human Hygiene </b>   
 <p style="text-align:left;">
 <i>Health Research Training Intern</i>
-<span style="float:right;"> August 2019 – Current</span>
+<span style="float:right;"> August 2019 – December 2019</span>
 <ul>
-<li>Assist in the survey design for the initial assessment forms for the Asthma Counselor Program that addresses uncontrolled childhood asthma for residents of East Harlem at the Asthma Center of Excellence</li>
-<li>Conduct data entry and data analysis to assess goals met by participants of the Asthma Counselor and Community Health Worker program</li></ul>
+<li>Assisted in the survey design for an initial assessment for participants in the Asthma Counselor Program</li>
+<li>Conducted data entry and data analysis to assess the goals met by program participants using Microsoft Excel and advanced Pivot Tables
+</li></ul>
 
 <b>PCORI</b>  
 <p style="text-align:left;"><i>Program Assistant</i>
@@ -50,35 +51,37 @@ PI: Yusuf Ransome
 <li>Conducted two systematic literature reviews using Covidence to understand 1) the role of technology to address chronic disease in faith-based settings and 2) the role of religion/spirituality on aging and cognitive decline</li></ul>
 <br>
 <b>Columbia University, Mailman School of Public Health</b>    
-<p style="text-align:left;"><i>Graduate Project Coordinator, HaRBoR Study</i><span style="float:right;"> January 2019 – May 2019</span></p>
+<p style="text-align:left;"><i>Graduate Project Coordinator, HaRBoR Study</i><span style="float:right;"> January 2019 – Current</span></p>
 PI: Diana Hernandez<br>
 <ul>
 <li>Coordinated the evaluation of an original intervention designed to increase smoke-free housing policy compliance in established smoke-free affordable housing developments in the South Bronx using a mixed methods, pre-post with comparison group study design</li>
 <li>Conducted surveys with residents and installed air quality devices that measured heat, humidity, CO2, ventilation and volatile organic compound exposure</li>
-<li>Supervised 10 graduate student research assistants conducting field work</li></ul>
+<li>Supervised 10 graduate student research assistants conducting field work</li>
+<li>Conduct data cleaning and data analysis for the study using R/R Studio</li></ul>
 
 <h2>Teaching Experience</h2>
 
 <b>Columbia University</b>	
 <p style="text-align:left;"><i>Teaching Assistant, Environmental Health and Justice</i><span style="float:right;">Sept. 2019 – Dec. 2019</span></p>
 <ul>
-<li>Assists with the development of lectures and quizzes related to environmental justice theory, vulnerable populations, community-based participatory research, and social movements in environmental health and policy</li>
-<li>Serves as the point TA to 12 undergraduate students to develop proposals to address an environmental health issue in NYC through oral and poster presentation</li></ul>
+<li>Assistsed with the development of lectures and quizzes related to environmental justice theory, vulnerable populations, community-based participatory research, and social movements in environmental health and policy</li></ul>
 <h1>Leadership Experience</h1>
 <b>Bloom Girls Mentoring</b> 	        
-<p style="text-align:left;"><i>President</i><span style="float:right;">Sept. 2019 – Current</span></p>
-<ul><li>Oversees program that provides mentorship to girls and young teens in the Washington Heights community of northern Manhattan via weekly day group sessions</li></ul>
+<p style="text-align:left;"><i>President</i><span style="float:right;">September 2019 – December 2019</span></p>
+<ul><li>Oversaw program that provides mentorship to girls and young teens in the Washington Heights community of northern Manhattan via weekly day group sessions</li></ul>
 
 <h2>Skills/Certifications</h2>
-
 <ul>
-<li>MS Word, Excel, Access, PowerPoint, Photoshop, SharePoint, Salesforce: Foundation Connect, EndNote, Mendeley, Covidence</li>
+<li>Microsoft Office (Word, Excel, Access, PowerPoint), SharePoint
 <li>Statistical Packages:<br>
-Quantitative:  SPSS, R, QGIS, SAS <br>
-Qualitative: Atlas.ti, NVivo, Dedoose</li>
+Quantitative:  SPSS, R/R Studio, SAS <br>
+Qualitative: Atlas.ti, NVivo, Dedoose<br>
+Geospatial: QGIS, GeoDa, SpatStat</li>
+<li>Research Tools: Qualtrics, EndNote,
+Mendeley Note, Covidence, DistillerSR, SurveyMonkey</li>
+<li>CRM/Ticketing Systems: Salesforce: Foundation Connect, Zendesk</li>
 <li>CITI Training (IRB), 2019</li>
-<li>HIPAA Training, 2018</li>
+<li>HIPAA Training, 2019</li>
 <li>Protection of Minors Training, 2018</li>
 <li>Human Subjects Certification, 2018</li>
-<li>New Jersey Immunization Information System Training, 2015</li></ul>
-
+</ul>

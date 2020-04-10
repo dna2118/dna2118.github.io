@@ -1,16 +1,20 @@
-name: "Yay internet!"
+name: "Dionna Attinson's Website"
 output_dir: "."
 navbar:
   title: "Home"
   right:
   - text: "Resume"
-    href: about.html
-  - text: "Plotly"
+    href: About.html
+  - text: "Publications/Presentations"
+    href: Publications-Presentations.html
+  - text: "Projects"
     menu: 
-    - text: Plotly.html
+    - text: "Plotly"
     - href: Plotly.html
     - text: "Dashboard"
     - href: Dashboard1.html
+    - text: "GIS"
+    - href: GISProject.html
   - icon: fa-envelope fa-lg
     href: mailto:dna2118@cumc.columbia.edu
   - icon: fa-github fa-lg
