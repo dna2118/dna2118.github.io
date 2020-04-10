@@ -5,6 +5,7 @@ html_document:
   toc: true
   toc_float: true 
 ---
+
 1. Torres M., Robinson-Ector K., <b>Attinson D.</b>, Trotter J., Anise A., Clauser S. (2018) A Portfolio Analysis of Culturally Tailored Trials to Address Health and Healthcare Disparities. Int J Environ Res Public Health. 2018 Aug 28;15(9)
 
 2. Mohr P., <b>Attinson D.</b>, Lakhia A. (2018) PCORI-Funded Projects Aim to Use Telehealth to Address Disparities. Blog. https://www.pcori.org/blog/pcori-funded-projects-aim-use-telehealth-address-disparities. July 2018.
@@ -17,4 +18,4 @@ html_document:
 
 6. <b>Attinson D.</b>, Clayton A., Lakhia A., Mohr P. (2017) Addressing Disparities through the Patient-Centered Outcomes Research Institute’s Telehealth Portfolio. Podium presenter at the SEARCH 2017 Telehealth Research Symposium, Philadelphia, PA, October 2017. 
 
-7. Torres M., <b>Attinson D.</b>, Hudson A., Robinson-Ector K. (2017) Cultural-Tailoring in Behavioral Interventions. Poster presented at the Research Centers in Minority Institutions Translational Science 2017 Meeting, Washington, DC, November 2017. 
+7. Torres M., <b>Attinson D.</b>, Hudson A., Robinson-Ector K. (2017) Cultural-Tailoring in Behavioral Interventions. Poster presented at the Research Centers in Minority Institutions Translational Science 2017 Meeting, Washington, DC, November 2017. </br>
