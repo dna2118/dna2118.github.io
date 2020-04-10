@@ -74,7 +74,7 @@ PI: Diana Hernandez<br>
 <ul>
 <li>Microsoft Office (Word, Excel, Access, PowerPoint), SharePoint
 <li>Statistical Packages:<br>
-Quantitative:  SPSS, R/R Studio, SAS <br>
+Quantitative:  SPSS, R/RStudio, SAS <br>
 Qualitative: Atlas.ti, NVivo, Dedoose<br>
 Geospatial: QGIS, GeoDa, SpatStat</li>
 <li>Research Tools: Qualtrics, EndNote,
