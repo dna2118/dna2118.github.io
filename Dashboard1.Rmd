@@ -69,7 +69,7 @@ manhattan_inspections =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Chart A: Manhattan Restaurant Inspection Scores by location
 
 ```{r}
 manhattan_inspections %>% 
@@ -81,17 +81,17 @@ manhattan_inspections %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Chart B: Manhattan Restaurant Inspection Scores by Cuisine
 
 ```{r}
 manhattan_inspections %>% 
-  filter(cuisine_description %in% c("Italian", "Asian", "Mexican", "Pizza", "American" )) %>% 
+  filter(cuisine_description %in% c("Italian", "Asian", "Mexican", "Jewish/Kosher", "American" )) %>% 
   mutate(cuisine_description = fct_reorder(cuisine_description, score)) %>% 
   plot_ly(y = ~score, color = ~cuisine_description, type = "box",
           colors = "Set2")
 ```
 
-### Chart C
+### Chart C: Restaurant Inspections by Borough
 
 ```{r}
 nyc_inspections %>%
